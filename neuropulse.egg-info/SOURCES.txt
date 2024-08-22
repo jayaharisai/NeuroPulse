@@ -2,7 +2,11 @@ LICENSE
 README.md
 setup.py
 NeuroPulse/__init__.py
-NeuroPulse/my_module.py
+NeuroPulse/main.py
+NeuroPulse/utils.py
+neuropulse/__init__.py
+neuropulse/main.py
+neuropulse/utils.py
 neuropulse.egg-info/PKG-INFO
 neuropulse.egg-info/SOURCES.txt
 neuropulse.egg-info/dependency_links.txt
