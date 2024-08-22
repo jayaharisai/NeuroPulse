@@ -1,4 +1,4 @@
-from NeuroPulse.utils import additon
+from neuropulse.utils import additon
 
 def main():
     result = additon(2, 4)

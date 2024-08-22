@@ -2,10 +2,10 @@ from setuptools import setup, find_packages
 
 setup(
     name="neuropulse",
-    version="0.3",
+    version="2.0",
     packages=find_packages(),
     install_requires=[
-        # list your dependencies here
+        "boto3"
     ],
     author="Jayaharisai Tothala",
     author_email="jayaharisai1212@gmail.com",
